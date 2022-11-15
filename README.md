@@ -7,3 +7,8 @@
 Toavina23/Toavina23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+#Main technologies interested in 
+1-React
+2-Flutter
+3-Rust
