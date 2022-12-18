@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Toavina23/langs)](https://githubtrends.io)
+https://api.githubtrends.io/user/svg/Toavina23/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=dark
