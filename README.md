@@ -14,6 +14,10 @@
   <a href="https://www.tailwindcss.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="TailwindCSS" /></a>
   <a href="https://prisma.io"><img src="https://www.prisma.io/images/favicon-32x32.png" width="48" height="48" alt="Prisma" /></a>
   <a href="https://planetscale.com"><img src="https://avatars.githubusercontent.com/u/35612527?s=200&v=4" width="48" height="48" alt="PlanetScale" /></a>
+</div>  
+<div style="display: flex;">
+  <a href="https://www.flutter.dev"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="48" height="48" alt="Flutter" /></a>
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="48" height="48" alt="Java" /></a>
 </div>
 
 
@@ -28,6 +32,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Toavina23/langs)](https://githubtrends.io)   
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Toavina23/langs)](https://githubtrends.io)
 [![GitHub trends SVG](https://api.githubtrends.io/user/svg/Toavina23/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=dark)](https://githubtrends.io)  
 ![alt text](https://github.com/Toavina23/Toavina23/blob/main/images/github-wrapped.png?raw=true)
