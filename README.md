@@ -3,6 +3,7 @@
 - 💞️ I’m looking to collaborate on all projects that is open for collaboration
 - 📫 How to reach me: zotoavina.andria@gmail.com
 - 📍  Located at Madagascar
+- Comp-sci student at <a href="https://www.ituniversity-mg.com/page/">IT University</a>
 
 
 ### Tech I'm passionate about
